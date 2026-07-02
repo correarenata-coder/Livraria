@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Livraria.CrossCutting/Livraria.CrossCutting.csproj" />
+  <Project Path="Livraria.Domain/Livraria.Domain.csproj" />
+  <Project Path="Livraria.Infrastructure/Livraria.Infrastructure.csproj" />
+</Solution>
