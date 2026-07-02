@@ -21,3 +21,8 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+/.vs
+/src/.vs/Livraria.slnx
+/src/Livraria.CrossCutting/obj
+/src/Livraria.Domain/obj
+/src/Livraria.Infrastructure/obj
