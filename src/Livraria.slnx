@@ -1,4 +1,6 @@
 <Solution>
+  <Project Path="Livraria.Application/Livraria.Application.csproj" Id="a6f43bbd-dc62-4c41-88a9-36cdf517363e" />
+  <Project Path="Livraria.Blazor/Livraria.Blazor.csproj" Id="5cbed1c0-77e2-4619-9c5c-18913f63b9da" />
   <Project Path="Livraria.CrossCutting/Livraria.CrossCutting.csproj" />
   <Project Path="Livraria.Domain/Livraria.Domain.csproj" />
   <Project Path="Livraria.Infrastructure/Livraria.Infrastructure.csproj" />
