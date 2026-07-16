@@ -1,0 +1,16 @@
+D:\Renata\016 - Sistemas\CRUD_Livraria\src\Livraria.Application\bin\Debug\net10.0\Livraria.Application.deps.json
+D:\Renata\016 - Sistemas\CRUD_Livraria\src\Livraria.Application\bin\Debug\net10.0\Livraria.Application.dll
+D:\Renata\016 - Sistemas\CRUD_Livraria\src\Livraria.Application\bin\Debug\net10.0\Livraria.Application.pdb
+D:\Renata\016 - Sistemas\CRUD_Livraria\src\Livraria.Application\bin\Debug\net10.0\Livraria.Domain.dll
+D:\Renata\016 - Sistemas\CRUD_Livraria\src\Livraria.Application\bin\Debug\net10.0\Livraria.Domain.pdb
+D:\Renata\016 - Sistemas\CRUD_Livraria\src\Livraria.Application\obj\Debug\net10.0\Livraria.Application.csproj.AssemblyReference.cache
+D:\Renata\016 - Sistemas\CRUD_Livraria\src\Livraria.Application\obj\Debug\net10.0\Livraria.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Renata\016 - Sistemas\CRUD_Livraria\src\Livraria.Application\obj\Debug\net10.0\Livraria.Application.AssemblyInfoInputs.cache
+D:\Renata\016 - Sistemas\CRUD_Livraria\src\Livraria.Application\obj\Debug\net10.0\Livraria.Application.AssemblyInfo.cs
+D:\Renata\016 - Sistemas\CRUD_Livraria\src\Livraria.Application\obj\Debug\net10.0\Livraria.Application.csproj.CoreCompileInputs.cache
+D:\Renata\016 - Sistemas\CRUD_Livraria\src\Livraria.Application\obj\Debug\net10.0\Livraria.Application.sourcelink.json
+D:\Renata\016 - Sistemas\CRUD_Livraria\src\Livraria.Application\obj\Debug\net10.0\Livraria.422A9370.Up2Date
+D:\Renata\016 - Sistemas\CRUD_Livraria\src\Livraria.Application\obj\Debug\net10.0\Livraria.Application.dll
+D:\Renata\016 - Sistemas\CRUD_Livraria\src\Livraria.Application\obj\Debug\net10.0\refint\Livraria.Application.dll
+D:\Renata\016 - Sistemas\CRUD_Livraria\src\Livraria.Application\obj\Debug\net10.0\Livraria.Application.pdb
+D:\Renata\016 - Sistemas\CRUD_Livraria\src\Livraria.Application\obj\Debug\net10.0\ref\Livraria.Application.dll

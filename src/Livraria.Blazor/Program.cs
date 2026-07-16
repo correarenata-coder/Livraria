@@ -1,10 +1,14 @@
 using Livraria.Blazor.Components;
+using Livraria.CrossCutting.DependenciesApp;
+using Livraria.Infrastructure.Context;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
+
+builder.Services.AddInfrastructure(builder.Configuration);
 
 var app = builder.Build();
 
@@ -25,3 +29,11 @@ app.MapRazorComponents<App>()
     .AddInteractiveServerRenderMode();
 
 app.Run();
+
+static void CreateDatabase(WebApplication app)
+{
+    var serviceScope = app.Services.CreateScope();
+    var dataContext = serviceScope.ServiceProvider.GetService<ApplicationDbContext>();
+   // vai vriar o banco de dados na primeira execução
+    dataContext?.Database.EnsureCreated();
+}
